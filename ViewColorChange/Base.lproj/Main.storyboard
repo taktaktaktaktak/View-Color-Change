@@ -23,7 +23,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="1" green="0.2110442478" blue="0.081537066640000003" alpha="1" colorSpace="calibratedRGB"/>
                             </view>
-                            <view alpha="0.5" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="C9N-k0-YJP" userLabel="BlueView">
+                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="C9N-k0-YJP" userLabel="BlueView">
                                 <rect key="frame" x="16" y="131" width="195" height="269"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.0" green="0.0" blue="1" alpha="1" colorSpace="calibratedRGB"/>
@@ -52,7 +52,7 @@
                                     <action selector="GreenButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="5NP-zY-prj"/>
                                 </connections>
                             </button>
-                            <view alpha="0.5" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="2uT-JR-fb3" userLabel="GreenView">
+                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="2uT-JR-fb3" userLabel="GreenView">
                                 <rect key="frame" x="106" y="155" width="253" height="270"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.0039215688589999999" green="1" blue="0.078431375319999996" alpha="1" colorSpace="deviceRGB"/>
